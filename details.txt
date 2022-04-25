@@ -1,0 +1,58 @@
+Body
+=========
+Background color :#fff
+color:#4d4d4d
+body font size: 18px
+font: Google fonts 'Poppins'
+
+Header 
+=========
+background color :#ececec
+Logo size : 92X70
+Header top & bottom padding: 15px
+Menu font color : #4d4d4d
+Menu font size: 18px
+Menu font weight: regular
+
+
+Banner
+=======
+Banner min height : 444px
+Banner text vertical & horizontally center
+Banner font size : 48px
+text color: #fff
+font weight : SemiBold
+Button font color: #d52037
+Button font size : 24px
+Button font weight : SemiBold
+
+Section Heading
+===============
+font size: 36px
+font color: #d52037
+font weight : SemiBold
+youtube iframe url :https://www.youtube.com/watch?v=CX8ZybaPB5Y
+Google map iframe any location
+Form field background color: #e4e4e4
+Submit button background color : #db1e36
+Submit font size: 18px
+Submit font weight: regular
+
+Footer
+===========
+Background color : #cecece
+font size: 16px;
+
+Learn More Popup
+use bootstrap modal
+================
+Background color: #fff
+text color: #4d4d4d
+Heading background color : #db1e36
+Heading text size: 24px
+heading text color : #fff
+heading font weight: SemiBold
+
+* if user click top menu 'contact' or 'about' one "active" class add on menu & page scroll to that section.
+
+
